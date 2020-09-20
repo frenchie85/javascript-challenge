@@ -32,7 +32,7 @@ Using multiple input tags and/or select dropdowns, write JavaScript code so the 
   
 ## Filters ##
 ### Level 1 ###
-![](Assets/level1.gif
+![](Assets/level1.gif)
 
 ### Level 2 ###
 ![](Assets/Level2.gif)
